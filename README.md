@@ -1,6 +1,6 @@
 # Web-Browser-Shopping-Cart
 Simple shopping cart used to practice objects, and js classes.
-Github Pages website for this project: https://oia20.github.io/browserRPG/
+Github Pages website for this project: https://oia20.github.io/Web-Browser-Shopping-Cart/
 
 Technologies used:
 - HTML
